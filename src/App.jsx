@@ -129,8 +129,11 @@ function App() {
 
       <footer className="site-footer">
         <div className="footer-inner">
-          <p><strong>Results Network Resource</strong></p>
-          <p>Built to help local government leaders turn shared expectations into lasting change.</p>
+          <p>
+            This resource was authored by Scot Barker with the help of Madeleine Weatherhead for The{' '}
+            <strong>Results Network. Results Network</strong> is a community for government leaders seeking to{' '}
+            <strong>find</strong>, <strong>fund</strong>, and <strong>implement</strong> proven economic mobility solutions.
+          </p>
         </div>
       </footer>
     </>
