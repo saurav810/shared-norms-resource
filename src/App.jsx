@@ -130,7 +130,9 @@ function App() {
       <footer className="site-footer">
         <div className="footer-inner">
           <p>
-            This resource was authored by Scot Barker with the help of Madeleine Weatherhead for The{' '}
+            This resource was authored by{' '}
+            <a href="https://resultsnetwork.results4america.org/users/6783901">Scot Barker</a> with the help of{' '}
+            <a href="https://resultsnetwork.results4america.org/users/6772641">Madeleine Weatherhead</a> for The{' '}
             <strong>Results Network. Results Network</strong> is a community for government leaders seeking to{' '}
             <strong>find</strong>, <strong>fund</strong>, and <strong>implement</strong> proven economic mobility solutions.
           </p>

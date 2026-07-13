@@ -75,6 +75,7 @@
 .site-footer { border-top: 6px solid var(--bright-blue); background: var(--navy); color: #fff; }
 .footer-inner { width: min(1200px, calc(100% - 3rem)); margin: 0 auto; padding: 2rem 0; }
 .footer-inner p { margin: .25rem 0; line-height: 1.5; }
+.footer-inner a { color: inherit; font-weight: 600; }
 .footer-inner p:last-child { color: #d5e3ef; font-size: .9rem; }
 @media (max-width: 800px) {
   .header-inner { padding: 3.5rem 0; }
